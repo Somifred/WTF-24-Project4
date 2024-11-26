@@ -1,5 +1,5 @@
 Introduction:
-Analyzing the Bank Marketing Dataset Using Machine Lerning Mode
+Analyzing the Bank Marketing Dataset Using Machine Learning Model
 
 About Dataset:
 The Bank Marketing dataset is a collection of data related to marketing campaigns conducted by a Portuguese banking institution. The dataset contains information about various features related to the bank's clients and the outcome of their marketing campaigns.
